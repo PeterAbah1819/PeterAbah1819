@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeterAbah1819
 - I’m interested in QA Testing
 - I’m currently learning more testing frameworks
-- I’m looking to collaborate on Fintech or Tech Solutions and open source solutions
+- I’m looking to collaborate on Tech or Open Source solutions
 - How to reach me peterabah1819@gmail.com
 
 <!---
